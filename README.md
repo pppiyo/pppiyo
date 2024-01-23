@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to YL's garage :smirk_cat:
+
+:heart:  I'm obssessed with DESIGNING
+
+🌱  I’m currently learning React
+
+:grin:  Hope you will enjoy my product one day ✨ 
+
 
 <!--
 **pppiyo/pppiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
