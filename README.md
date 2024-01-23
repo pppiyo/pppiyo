@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to YL's garage :smirk_cat:
 
-:heart:  I'm obssessed with DESIGNING
+:heart:  I'm obssessed with designing
 
 🌱  I’m currently learning React
 
