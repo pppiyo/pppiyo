@@ -4,7 +4,7 @@
 
 🌱  YL is.. currently learning React
 
-:grin:  Hope you will enjoy my product one day ✨ 
+✨  Hope you will enjoy my product one day :grin:
 
 
 <!--
