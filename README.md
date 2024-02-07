@@ -2,7 +2,7 @@
 
 :heart:  YL is.. obssessed with designing
 
-🌱  YL is.. currently learning React
+🌱  YL is.. currently learning React, Plotly & Dash
 
 ✨  Hope you will enjoy my software product one day :grin:
 
