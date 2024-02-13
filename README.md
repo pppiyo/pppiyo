@@ -25,7 +25,7 @@ Yelp Business Search
 [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
 
 #### Other software / programs
-[Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
+[Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) , 
 [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
 ---
