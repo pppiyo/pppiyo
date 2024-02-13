@@ -1,14 +1,32 @@
 ### Hi there 👋 Welcome to YL's garage :smirk_cat:
 
+---
+
 :heart:  YL is.. obssessed with **designing**
 
 🔭 YL is.. currently working on **web app development**
 
 🌱  YL is.. currently learning **React, Plotly & Dash, Advanced Data Store, Software Architecture**
 
-**✨  Hope you will enjoy my software product one day :grin:**
+✨  Hope you will enjoy my software product one day :grin:
+
+---
+
+### Here's a summery of my past projects:
+#### Web / App development
+Yelp Business Search
+[Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS) , 
+[Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
+
+[Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
 
 
+#### Game development
+[MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
+
+#### Other software / programs
+[Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
+[Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
 ---
 ⚡ Fun fact: The goofy name "pppiyo" comes from an anime character in Red Riding Hood Chacha. It is a cute little bird who in emergency will evolve into a phoenix to protect its friends. Like Pichachu, the language it speaks is simply the word "piyo".
