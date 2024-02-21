@@ -23,7 +23,8 @@ Yelp Business Search
 
 ### 3. Other software / programs
 [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) , 
-[Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
+[Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD) \
+Note: toy projects from bootcamps are not listed here
 
 ---
 ⚡ Fun fact: The goofy name "pppiyo" comes from an anime character in Red Riding Hood Chacha. It is a cute little bird who in emergency will evolve into a phoenix to protect its friends. Like Pichachu, the language it speaks is simply the word "piyo".
