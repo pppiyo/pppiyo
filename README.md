@@ -4,7 +4,7 @@
 
 🔭 YL is.. currently working on **web app development**
 
-🌱  YL is.. currently learning **React, Plotly & Dash, Advanced Data Store, Software Architecture**
+🌱  YL is.. currently learning **Advanced Data Store, Software Architecture, Distributed System, Plotly & Dash**
 
 ✨  Hope you will enjoy my software product one day :grin:
 
