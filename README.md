@@ -1,6 +1,4 @@
-### Hi there 👋 Welcome to YL's garage :smirk_cat:
-
----
+## Hi there 👋 Welcome to YL's garage :smirk_cat:
 
 :heart:  YL is.. obssessed with **designing**
 
@@ -12,19 +10,18 @@
 
 ---
 
-### Here's a summery of my past projects:
-#### Web / App development
+## Here's a summery of my past projects:
+### 1. Web / App development
 Yelp Business Search
 [Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS) , 
 [Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
 
 [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
 
-
-#### Game development
+### 2. Game development
 [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
 
-#### Other software / programs
+### 3. Other software / programs
 [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) , 
 [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
