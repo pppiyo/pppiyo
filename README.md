@@ -14,7 +14,7 @@
 
 ## Here's a summery of my past projects:
 ### 1. Web / App development
-[Portfolio Website Built with React](https://youtu.be/2QX-zsj9--4)
+[Portfolio Website Built with React](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website)
 
 [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS)
 
