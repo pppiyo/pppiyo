@@ -12,19 +12,23 @@
 
 ## Here's a summery of my past projects:
 ### 1. Web / App development
-Yelp Business Search
-[Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS) , 
-[Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
+[Portfolio Website Built with React](https://youtu.be/2QX-zsj9--4)
+
+[Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS)
+
+[Yelp Business Search Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
 
 [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
 
 ### 2. Game development
 [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
 
+[Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
+
 ### 3. Other software / programs
-[Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) , 
-[Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD) \
-Note: toy projects from bootcamps are not listed here
+[Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
+
+[Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
 ---
 ⚡ Fun fact: The goofy name "pppiyo" comes from an anime character in Red Riding Hood Chacha. It is a cute little bird who in emergency will evolve into a phoenix to protect its friends. Like Pichachu, the language it speaks is simply the word "piyo".
