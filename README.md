@@ -6,7 +6,7 @@
 
 🌱  YL is.. currently learning **Advanced Data Store, Software Architecture, Distributed System, Plotly & Dash**
 
-⚡  Fun fact: The goofy name "pppiyo" comes from an anime character in Red Riding Hood Chacha. It is a cute little bird who in emergency will evolve into a phoenix to protect its friends.
+⚡  Fun fact: "pppiyo" comes from an anime character -- a cute little bird which in emergency will evolve into a phoenix to protect its friends.
 
 ✨  Hope you will enjoy my software product one day :grin:
 
