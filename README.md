@@ -1,8 +1,8 @@
 ## Hi there 👋 Welcome to YL's garage :smirk_cat:
 
-:heart:  YL is.. obssessed with **designing**
+:heart:  YL is.. obssessed with **DESIGNING**
 
-🔭  YL is.. currently working on **web app development**
+🔭  YL is.. currently working on **Web App Development**
 
 🌱  YL is.. currently learning **Advanced Data Store, Software Architecture, Distributed System, Plotly & Dash**
 
