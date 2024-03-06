@@ -8,7 +8,7 @@
 
 ⚡  Fun fact: "pppiyo" comes from an anime character, a cute little bird which in emergency will evolve into a phoenix to protect friends.
 
-✨  Hope you will enjoy my software product one day :grin:
+✨  **Hope you will enjoy my software product one day** :grin:
 
 ---
 
