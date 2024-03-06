@@ -6,7 +6,7 @@
 
 🌱  YL is.. currently learning **Advanced Data Store, Software Architecture, Distributed System, Plotly & Dash**
 
-⚡  Fun fact: "pppiyo" comes from an anime character -- a cute little bird which in emergency will evolve into a phoenix to protect its friends.
+⚡  Fun fact: "pppiyo" comes from an anime character. It's a cute little bird which in emergency will evolve into a phoenix to protect friends.
 
 ✨  Hope you will enjoy my software product one day :grin:
 
