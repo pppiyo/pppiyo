@@ -36,7 +36,13 @@
 [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
 ### 5. Others
+[Socket Programming](https://github.com/pppiyo/Socket)
+
 [Guestbook in Golang](https://github.com/pppiyo/Guestbook)
+
+[Life Hacks](https://github.com/pppiyo/LifeHacks)
+
+
 
 <!--
 ⚡ Fun fact: The goofy name "pppiyo" comes from an anime character who in emergency will evolve into a phoenix to protect its friends. Like Pichachu, the language it speaks is simply the word "piyo".
