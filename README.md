@@ -22,18 +22,18 @@
 
 - [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
 
-### 2. Game
-- [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
-
-- [Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
+### 2. Software
+- [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
 ### 3. Multimedia
 - [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
 
 - [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression)
 
-### 4. Software
-- [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
+### 4. Game
+- [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
+
+- [Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
 
 ### 5. Others
 - [Socket Programming](https://github.com/pppiyo/Socket)
