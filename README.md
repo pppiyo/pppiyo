@@ -12,7 +12,7 @@
 
 ---
 
-## Here's a summery of my featured projects:
+## Here are my featured projects:
 ### 1. Web / App
 - [Leazy AI Chatbot](https://dev.leazy.ai/)
   
