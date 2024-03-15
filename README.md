@@ -12,8 +12,10 @@
 
 ---
 
-## Here's a summery of my past projects:
+## Here's a summery of my featured projects:
 ### 1. Web / App
+- [Leazy AI Chatbot](https://dev.leazy.ai/)
+  
 - [Portfolio Website Built with React](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website)
 
 - [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS)
@@ -21,27 +23,28 @@
 - [Yelp Business Search Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
 
 - [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
-
-### 2. Software
-- [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
+   
+### 2. Computer Network
+- [Socket Programming](https://github.com/pppiyo/Socket)
 
 ### 3. Multimedia
 - [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
 
 - [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression)
 
-### 4. Game
+### 4. Software
+- [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
+
+### 5. Game
 - [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
 
 - [Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
 
-### 5. Others
-- [Socket Programming](https://github.com/pppiyo/Socket)
+### 6. Did for fun
 
 - [Guestbook in Golang](https://github.com/pppiyo/Guestbook)
 
 - [Life Hacks](https://github.com/pppiyo/LifeHacks)
-
 
 
 <!--
