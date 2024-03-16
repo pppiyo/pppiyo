@@ -27,23 +27,23 @@
 ### 2. Database
 - [MongoDB + Bitmap](https://github.com/pppiyo/MongoDB_Bitmap)
    
-### 2. Computer Network
+### 3. Computer Network
 - [Socket Programming](https://github.com/pppiyo/Socket)
 
-### 3. Multimedia
+### 4. Multimedia
 - [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
 
 - [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression)
 
-### 4. Software
+### 5. Software
 - [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
 
-### 5. Game
+### 6. Game
 - [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
 
 - [Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
 
-### 6. Did for fun
+### 7. Did for fun
 
 - [Guestbook in Golang](https://github.com/pppiyo/Guestbook)
 
