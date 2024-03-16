@@ -23,6 +23,9 @@
 - [Yelp Business Search Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
 
 - [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
+
+### 2. Database
+- [MongoDB + Bitmap](https://github.com/pppiyo/MongoDB_Bitmap)
    
 ### 2. Computer Network
 - [Socket Programming](https://github.com/pppiyo/Socket)
