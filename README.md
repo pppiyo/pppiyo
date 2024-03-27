@@ -45,7 +45,7 @@
 
 ### 7. Did for fun
 
-- [Guestbook in Golang](https://github.com/pppiyo/Guestbook)
+- [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook)
 
 - [Life Hacks](https://github.com/pppiyo/LifeHacks)
 
