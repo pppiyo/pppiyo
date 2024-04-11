@@ -44,6 +44,8 @@
 
 - [Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
 
+- [Mine Sweeper](https://github.com/pppiyo/Mine_Sweeper)
+
 ### 7. Did for fun
 
 - [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook)
