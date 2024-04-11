@@ -16,7 +16,7 @@
 ### 1. Web / App
 - [Leazy AI Chatbot](https://dev.leazy.ai/)
   
-- [Portfolio Website Built with React](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website)
+- [Portfolio Website Built with React and Tailwind](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website)
 
 - [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS)
 
