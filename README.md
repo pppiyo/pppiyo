@@ -14,9 +14,9 @@
 
 ## Here are my featured projects:
 ### 1. Web / App
-- [LeazyAI Chatbot](https://dev.leazy.ai/)
+- [Leazy AI Chatbot](https://dev.leazy.ai/)
 
-- [LeazyAI CRM App](https://github.com/roundblock-randd/leazyai-crm)
+- [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm)
   
 - [Portfolio Website Built with React and Tailwind](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website)
 
