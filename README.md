@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to YL's garage :smirk_cat:
 
-:heart:  YL is.. obssessed with **DESIGNING**
+:heart:  YL is.. obssessed with **DESIGNING** -- I pay attention to structure, pattern, and modularity in my works.
 
 🔭  YL is.. currently working on **Web App Development**
 
