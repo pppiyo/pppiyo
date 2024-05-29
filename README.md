@@ -46,7 +46,7 @@
 ### 6. Game
 - [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
 
-- [Card of Heart](https://mariellebrady.itch.io/cards-of-heart)
+- [Cards of Heart](https://www.cardsofheart.com/)
 
 - [Mine Sweeper](https://github.com/pppiyo/Mine_Sweeper)
 
