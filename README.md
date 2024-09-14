@@ -4,7 +4,7 @@
 
 🔭  YL is.. currently working on **Web App Development**
 
-🌱  YL is.. currently learning **CCNA, Operating Systems**
+🌱  YL is.. currently learning **Operating Systems, CCNA**
 
 ⚡  Fun fact: "pppiyo" is an anime character, a cute little bird which in emergency will evolve into a phoenix to protect its friends.
 
