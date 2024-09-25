@@ -6,7 +6,7 @@
 
 🌱  YL is.. currently learning **Operating Systems**
 
-⚡  Fun fact: "pppiyo" is an anime character, a cute little bird which in emergency will evolve into a phoenix to protect its friends.
+⚡  Fun fact: "piyo" comes from an anime character, a cute little bird which in emergency will evolve into a phoenix to protect its friends.
 
 ✨  **Hope you will enjoy my software product one day** :grin:
 
