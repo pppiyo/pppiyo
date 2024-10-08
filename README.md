@@ -14,7 +14,7 @@
 
 ## Here are my featured projects:
 ### 1. Web / App
-- [Leazy AI Chatbot](https://dev.leazy.ai/)
+- [Leazy AI Chatbot](https://www.leazy.ai/)
 
 - [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm)
   
