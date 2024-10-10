@@ -29,8 +29,7 @@
 - [PATROL Android App](https://github.com/pppiyo/PATROL)
 
 ### 2. Database
-- [MongoDB B+ Tree Adaptation](https://github.com/pppiyo/MongoDB_B_plus_Tree
-)
+- [MongoDB B+ Tree Adaptation](https://github.com/pppiyo/CSCI550_mongo)
    
 ### 3. Computer Network
 - [Socket Programming](https://github.com/pppiyo/Socket)
