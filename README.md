@@ -14,51 +14,51 @@
 
 ## Here are my featured projects:
 ### 1. Web / App
-- [Leazy AI Chatbot](https://www.leazy.ai/)
+- [Leazy AI Chatbot](https://www.leazy.ai/) (React)
 
-- [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm)
+- [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm) (React)
   
-- [Portfolio Website Built with React and Tailwind](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website)
+- [Portfolio Website Built with React and Tailwind](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website) (React, Tailwind)
 
-- [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS)
+- [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS) (Javascript)
 
-- [Yelp Business Search Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular)
+- [Yelp Business Search Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular) (Angular)
 
-- [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS)
+- [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS) (SwiftUI)
 
-- [PATROL Android App](https://github.com/pppiyo/PATROL)
+- [PATROL Android App](https://github.com/pppiyo/PATROL) (Kotlin)
 
 ### 2. Multi-thread
-- [Token Bucket Filter Emulation in C](https://github.com/pppiyo/token_bucket)
+- [Token Bucket Filter (Muti-Thread) Emulation in C](https://github.com/pppiyo/token_bucket) (C)
 
 ### 3. Database
-- [MongoDB B+ Tree Adaptation](https://github.com/pppiyo/CSCI550_mongo)
+- [MongoDB B+ Tree Adaptation](https://github.com/pppiyo/CSCI550_mongo) (C)
    
 ### 4. Computer Network
-- [Socket Programming](https://github.com/pppiyo/Socket)
+- [Socket Programming](https://github.com/pppiyo/Socket) (C, C++)
 
 ### 5. Multimedia
-- [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player)
+- [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) (Python)
 
-- [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression)
+- [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression) (Python)
 
 ### 6. Game
-- [MamaChick](https://github.com/pppiyo/MamaChick_v2.0)
+- [MamaChick](https://github.com/pppiyo/MamaChick_v2.0) (C#)
 
-- [Cards of Heart](https://www.cardsofheart.com/)
+- [Cards of Heart](https://www.cardsofheart.com/) (C#)
 
-- [Mine Sweeper](https://github.com/pppiyo/Mine_Sweeper)
+- [Mine Sweeper](https://github.com/pppiyo/Mine_Sweeper) (Java)
 
 ### 7. Software
-- [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD)
+- [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD) (PASCAL)
 
 ### 8. Did for fun
 
-- [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook)
+- [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook) (Go)
 
-- [File Downloader](https://github.com/pppiyo/File_Downloader)
+- [File Downloader](https://github.com/pppiyo/File_Downloader) (Python)
 
-- [Bank Transaction Prosessor in C](https://github.com/pppiyo/Bank_Transaction_Prosessor)
+- [Bank Transaction Prosessor in C](https://github.com/pppiyo/Bank_Transaction_Prosessor) (C)
 
 
 <!--
