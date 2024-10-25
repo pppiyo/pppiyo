@@ -31,7 +31,7 @@
 ### 2. Multi-thread
 - [Token Bucket Filter (Muti-Thread) Emulation in C](https://github.com/pppiyo/token_bucket) (C)
 
-### 3. Kernel
+### 3. Operating System
 - [Weenix](https://github.com/pppiyo/Weenix) (C)
 
 ### 4. Database
