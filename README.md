@@ -55,7 +55,7 @@
 ### 8. Software
 - [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD) (PASCAL)
 
-### 9. Did for fun
+### 9. Did for fun / Others
 - [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook) (Go)
 
 - [File Downloader](https://github.com/pppiyo/File_Downloader) (Python)
