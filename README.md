@@ -8,11 +8,11 @@
 
 ⚡  Fun fact: "piyo" comes from an anime character, a cute little bird which in emergency will evolve into a phoenix to protect its friends.
 
-✨  **Hope you will enjoy my software product one day** :grin:
+✨  **Hope you will enjoy my software one day** :grin:
 
 ---
 
-## Here are my featured projects:
+## Here are my projects, organized by category:
 ### 1. Web / App
 - [Leazy AI Chatbot](https://www.leazy.ai/) (React)
 
