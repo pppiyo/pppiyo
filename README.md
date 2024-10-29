@@ -12,7 +12,7 @@
 
 ---
 
-## Here are my projects, organized by category:
+## Projects organized by category:
 ### 1. Web / App
 - [Leazy AI Chatbot](https://www.leazy.ai/) (React)
 
