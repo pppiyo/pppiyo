@@ -20,9 +20,9 @@
   
 - [Portfolio Website Built with React and Tailwind](https://github.com/pppiyo/WebDevelopment/tree/master/Portfolio_Website) (React, Tailwind)
 
-- [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS) (Javascript)
-
 - [Yelp Business Search Angular Version](https://github.com/pppiyo/Yelp_Business_Search_Angular) (Angular)
+
+- [Yelp Business Search Javascript Verson](https://github.com/pppiyo/Yelp_Business_Search_Vanilla_JS) (Javascript)
 
 - [Yelp Review iOS App](https://github.com/pppiyo/Yelp_Business_Review_iOS) (SwiftUI)
 
