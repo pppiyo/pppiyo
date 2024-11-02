@@ -6,7 +6,7 @@
 
 🌱  YL is.. currently learning **Operating Systems** (**building a Weenix system, loving it**)
 
-⚡  Fun fact: "piyo" comes from an anime character, a cute little bird which in emergency will evolve into a phoenix to protect its friends.
+⚡  Fun fact: "piyo" comes from an anime character, a cute little bird who in emergency will evolve into a phoenix to protect its friends.
 
 ✨  **Hope you will enjoy my software one day** :grin:
 
