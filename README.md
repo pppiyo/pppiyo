@@ -62,7 +62,7 @@
 
 - [Bank Transaction Prosessor in C](https://github.com/pppiyo/Bank_Transaction_Prosessor) (C)
 
-- [Box Office Parser](https://github.com/pppiyo/box_office_parser) (Python)
+- [Box Office Analyzer](https://github.com/pppiyo/box_office_analyzer) (Python)
 
 
 <!--
