@@ -62,6 +62,8 @@
 
 - [Bank Transaction Prosessor in C](https://github.com/pppiyo/Bank_Transaction_Prosessor) (C)
 
+- [Box Office Parser](https://github.com/pppiyo/box_office_parser) (Python)
+
 
 <!--
 ⚡ Fun fact: The goofy name "pppiyo" comes from an anime character who in emergency will evolve into a phoenix to protect its friends. Like Pichachu, the language it speaks is simply the word "piyo".
