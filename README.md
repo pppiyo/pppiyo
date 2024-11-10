@@ -14,6 +14,8 @@
 
 ## Projects organized by category:
 ### 1. Web / App
+- [Pill Buddy](https://github.com/pppiyo/PillBuddy) (Typescript, DAIN)
+
 - [Leazy AI Chatbot](https://www.leazy.ai/) (React)
 
 - [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm) (React)
