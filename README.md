@@ -4,7 +4,7 @@
 
 🔭  YL is.. currently working on **Web App Development**
 
-🌱  YL is.. currently learning **Operating Systems** (**building a Weenix system, loving it**)
+🌱  YL is.. currently learning **Networking**, **ML**
 
 ⚡  Fun fact: "piyo" comes from an anime character, a cute little bird who in emergency will evolve into a phoenix to protect its friends.
 
