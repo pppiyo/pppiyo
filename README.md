@@ -13,8 +13,11 @@
 ---
 
 ## Projects organized by category:
-### 1. Web / App
+
+### 1. AI Agent
 - [Pill Buddy](https://github.com/pppiyo/PillBuddy) (Typescript, DAIN)
+  
+### 2. Web / App
 
 - [Leazy AI Chatbot](https://www.leazy.ai/) (React)
 
@@ -30,34 +33,34 @@
 
 - [PATROL Android App](https://github.com/pppiyo/PATROL) (Kotlin)
 
-### 2. Multi-thread
+### 3. Multi-thread
 - [Token Bucket Filter (Muti-Thread) Emulation in C](https://github.com/pppiyo/token_bucket) (C)
 
-### 3. Operating System
+### 4. Operating System
 - [Weenix](https://github.com/pppiyo/Weenix) (C)
 
-### 4. Database
+### 5. Database
 - [MongoDB B+ Tree Adaptation](https://github.com/pppiyo/CSCI550_mongo) (C)
    
-### 5. Computer Network
+### 6. Computer Network
 - [Socket Programming](https://github.com/pppiyo/Socket) (C, C++)
 
-### 6. Multimedia
+### 7. Multimedia related: Applications & Algorithm Implementations
 - [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) (Python)
 
 - [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression) (Python)
 
-### 7. Game
+### 8. Game Development
 - [MamaChick](https://github.com/pppiyo/MamaChick_v2.0) (C#)
 
 - [Cards of Heart](https://www.cardsofheart.com/) (C#)
 
 - [Mine Sweeper](https://github.com/pppiyo/Mine_Sweeper) (Java)
 
-### 8. Software
+### 9. Standalone Software
 - [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD) (PASCAL)
 
-### 9. Others (did for fun)
+### 10. Miscellaneous (toy projects for skill development)
 - [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook) (Go)
 
 - [File Downloader](https://github.com/pppiyo/File_Downloader) (Python)
