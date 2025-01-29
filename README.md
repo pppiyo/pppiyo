@@ -4,7 +4,7 @@
 
 🔭  YL is.. currently working on **Web App Development**
 
-🌱  YL is.. currently learning **Networking**, **ML**
+🌱  YL is.. currently learning **[Computer Networking - CCNA](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)** and **[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)**
 
 ⚡  Fun fact: "piyo" comes from an anime character, a cute little bird who in emergency will evolve into a phoenix to protect its friends.
 
