@@ -19,10 +19,10 @@
 - [ManuChai](https://github.com/pppiyo/ManuChai) (Streamlit, IBM Granite)
   
 - [Pill Buddy](https://github.com/pppiyo/PillBuddy) (Typescript, DAIN)
-  
-### 2. Web / App
 
 - [Leazy AI Chatbot](https://www.leazy.ai/) (React)
+  
+### 2. Web / App
 
 - [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm) (React)
   
