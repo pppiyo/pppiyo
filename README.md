@@ -12,7 +12,7 @@
 
 ---
 
-## Projects organized by category:
+## Project List
 
 ### 1. AI Agent
 - [ManuChai](https://github.com/pppiyo/ManuChai) (Streamlit, IBM Granite)
