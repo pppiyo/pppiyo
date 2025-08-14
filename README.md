@@ -2,7 +2,7 @@
 
 :heart:  YL is.. obssessed with **DESIGNING**. I pay attention to **Structure**, **Pattern**, and **Modularity** in my works.
 
-🔭  YL is.. currently working on **Web App Development**
+🔭  YL is.. currently working on **Network Automation**
 
 🌱  YL is.. currently learning **[Computer Networking - CCNA](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)** and **[Distributed System Design](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)**
 
