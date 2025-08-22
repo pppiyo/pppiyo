@@ -6,7 +6,7 @@
 
 🌱  YL is.. currently learning **[Computer Networking - CCNA](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)** and **[Distributed System Design](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)**
 
-⚡  Fun fact: "piyo" comes from an anime character, a cute little bird who in emergency will evolve into a phoenix to protect its friends.
+⚡  Fun fact: The goofy name "piyo" comes from an anime character, a cute little bird who in emergency will evolve into a phoenix to protect its friends.
 
 ✨  **Hope you will enjoy my software one day** :grin:
 
