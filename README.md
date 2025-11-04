@@ -12,7 +12,7 @@
 
 ---
 
-## Personal Projects
+## Personal Projects (23 Total, Grouped by Category)
 
 ### 1. AI Agent
 - [ManuChai](https://github.com/pppiyo/ManuChai) (Streamlit, IBM Granite)
