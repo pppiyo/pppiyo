@@ -11,9 +11,10 @@
 ✨  **Hope you will enjoy my software one day** :grin:
 
 ---
-## Tech Blog ##
+## My Tech Blog ##
 [Visit the Blog](https://pppiyo.github.io/amylee_blog/)
 
+---
 ## Personal Projects (23 Total, Grouped by Category)
 
 ### 1. AI Agent
