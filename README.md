@@ -2,19 +2,18 @@
 
 :heart:  YL is.. obssessed with **DESIGNING**. I pay attention to **Structure**, **Pattern**, and **Modularity** in my works.
 
-🔭  YL is.. currently working on **Network Automation**
+🔭  YL is.. currently working on **Network Automation**.
 
 🌱  YL is.. currently learning **AI**, **CCNA**, and **Distributed System Design**.
 
+🔍  This is the [Link to my Tech Blogs](https://pppiyo.github.io/amylee_blog/).
+
 ⚡  Fun fact: The goofy name "piyo" comes from an anime character, a cute little bird who in emergency will evolve into a phoenix to protect its friends.
 
-✨  **Hope you will enjoy my software one day** :grin:
+✨  **Hope you will enjoy my software one day !** :grin:
 
 ---
-## My Tech Blog ##
-[Visit the Blog](https://pppiyo.github.io/amylee_blog/)
 
----
 ## Personal Projects (23 Total, Grouped by Category)
 
 ### 1. AI Agent
