@@ -1,4 +1,4 @@
-## 👋 Hi there, welcome to YL (aka Amy Li)'s garage :smirk_cat:
+## 👋 Hi there, welcome to YL (aka Amy Lee)'s garage :smirk_cat:
 
 :heart:  YL is.. obssessed with **DESIGNING**. I pay attention to **Structure**, **Pattern**, and **Modularity** in my works.
 
