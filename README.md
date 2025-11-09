@@ -16,12 +16,12 @@
 
 ## Personal Projects (23 Total, Grouped by Category)
 
-### 1. AI Agent
+### AI Agent
 - [ManuChai](https://github.com/pppiyo/ManuChai) (Streamlit, IBM Granite)
   
 - [Pill Buddy](https://github.com/pppiyo/PillBuddy) (Typescript, DAIN)
   
-### 2. Web / App
+### Web / App
 - [Leazy AI Chatbot](https://www.leazy.ai/) (React)
 
 - [Leazy AI CRM App](https://github.com/roundblock-randd/leazyai-crm) (React)
@@ -36,34 +36,34 @@
 
 - [PATROL Android App](https://github.com/pppiyo/PATROL) (Kotlin)
 
-### 3. Multi-thread
+### Multi-thread
 - [Token Bucket Filter (Muti-Thread) Emulation in C](https://github.com/pppiyo/token_bucket) (C)
 
-### 4. Operating System
+### Operating System
 - [Weenix](https://github.com/pppiyo/Weenix) (C)
 
-### 5. Database
+### Database
 - [MongoDB B+ Tree Adaptation](https://github.com/pppiyo/CSCI550_mongo) (C)
    
-### 6. Computer Network
+### Computer Network
 - [Socket Programming](https://github.com/pppiyo/Socket) (C, C++)
 
-### 7. Multimedia related: Applications & Algorithm Implementations
+### Multimedia related: Applications & Algorithm Implementations
 - [Interactive Media Player](https://github.com/pppiyo/Interactive_Media_Player) (Python)
 
 - [Vector Quantization Compression](https://github.com/pppiyo/Vector_Quantization_Compression) (Python)
 
-### 8. Game Development
+### Game Development
 - [MamaChick](https://github.com/pppiyo/MamaChick_v2.0) (C#)
 
 - [Cards of Heart](https://www.cardsofheart.com/) (C#)
 
 - [Mine Sweeper](https://github.com/pppiyo/Mine_Sweeper) (Java)
 
-### 9. Standalone Software
+### Standalone Software
 - [Steam Turbine Flow Path Design](https://github.com/pppiyo/STFPD) (PASCAL)
 
-### 10. Miscellaneous (toy projects for skill development)
+### Miscellaneous (toy projects for skill development)
 - [Guestbook in Golang + MongoDB](https://github.com/pppiyo/Guestbook) (Go)
 
 - [File Downloader](https://github.com/pppiyo/File_Downloader) (Python)
