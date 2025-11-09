@@ -12,7 +12,7 @@
 
 ---
 ## Tech Blog ##
-[Visit the blog](https://pppiyo.github.io/amylee_blog/)
+[Visit the Blog](https://pppiyo.github.io/amylee_blog/)
 
 ## Personal Projects (23 Total, Grouped by Category)
 
