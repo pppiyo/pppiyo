@@ -8,7 +8,9 @@
 
 🔍  This is the [Link to my Tech Blogs](https://pppiyo.github.io/amylee_blog/).
 
-⚡  Fun fact: The name "piyo" comes from an anime character — a chubby pink bird who transforms into a phoenix in times of danger to protect its friends.
+⚡  Fun fact 1: The name "piyo" comes from an anime character — a chubby pink bird who transforms into a phoenix in times of danger to protect its friends. 
+
+⚡  Fun fact 2: My family name is "Li", but I spell it "Lee" in English to help people pronounce it correctly — not as "Lye".
 
 ✨  **Hope you will enjoy my software one day !** :grin:
 
