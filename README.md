@@ -11,6 +11,8 @@
 ✨  **Hope you will enjoy my software one day** :grin:
 
 ---
+## Tech Blog ##
+[Visit the blog](https://pppiyo.github.io/amylee_blog/)
 
 ## Personal Projects (23 Total, Grouped by Category)
 
