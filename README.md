@@ -2,7 +2,7 @@
 
 :heart:  YL is.. obsessed with **DESIGNING**. I pay attention to **Structure**, **Pattern**, and **Modularity** in my work.
 
-🔭  YL is.. currently working on **Network Automation**.
+🔭  YL is.. currently working on **[Agent Safety](https://github.com/xiaoxuansu/agentbeats-lambda-phase2-quietchaos)**, **Network Automation**.
 
 🌱  YL is.. currently learning **AI**, **CCNA**, and **Distributed System Design**.
 
