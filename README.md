@@ -2,7 +2,7 @@
 
 :heart:  YL is.. obsessed with **DESIGNING**. I pay attention to **Structure**, **Pattern**, and **Modularity** in my work.
 
-🔭  YL is.. currently working on **[Agent Safety](https://github.com/xiaoxuansu/agentbeats-lambda-phase2-quietchaos)**, **Network Automation**.
+🔭  YL is.. currently working on **SaaS**, **Network Automation**.
 
 🌱  YL is.. currently learning **AI**, **CCNA**, and **Distributed System Design**.
 
@@ -20,6 +20,8 @@
 *23 total, grouped by category*
 
 ### AI Agent
+1. [Agent Safety](https://github.com/xiaoxuansu/agentbeats-lambda-phase2-quietchaos) (Claude.AI, Python)
+   
 1. [ManuChai](https://github.com/pppiyo/ManuChai) (Streamlit, IBM Granite)
   
 1. [Pill Buddy](https://github.com/pppiyo/PillBuddy) (Typescript, DAIN)
