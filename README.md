@@ -4,7 +4,7 @@
 
 🔭  YL is.. currently working on **SaaS**, **Network Automation**.
 
-🌱  YL is.. currently learning **AI**, **CCNA**, and **Distributed System Design**.
+🌱  YL is.. currently learning **AI**, **Networking**, and **Distributed System Design**.
 
 🔍  This is the [Link to my Tech Blogs](https://pppiyo.github.io/amylee_blog/).
 
