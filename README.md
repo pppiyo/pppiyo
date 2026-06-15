@@ -17,7 +17,7 @@
 ---
 
 ## Personal Projects
-*23 total, grouped by category*
+*24 total, grouped by category*
 
 ### AI Agent
 1. [Agent Safety](https://github.com/xiaoxuansu/agentbeats-lambda-phase2-quietchaos) (Claude.AI, Python)
