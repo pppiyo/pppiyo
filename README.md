@@ -1,21 +1,3 @@
-## 👋 Hi there, welcome to YL (aka Amy Lee)'s garage :smirk_cat:
-
-:heart:  YL is.. obsessed with **DESIGNING**. I pay attention to **Structure**, **Pattern**, and **Modularity** in my work.
-
-🔭  YL is.. currently working on **SaaS**, **Network Automation**.
-
-🌱  YL is.. currently learning **AI**, **Networking**, and **Distributed System Design**.
-
-🔍  This is the [Link to my Tech Blogs](https://pppiyo.github.io/amylee_blog/).
-
-⚡  Fun fact 1: The handle **piyo** comes from an anime character, a chubby pink bird that transforms into a phoenix in times of danger to protect its friends. I threw **pp** in front to make it goofier and help avoid name clashes on the internet.
-
-⚡  Fun fact 2: My family name is **Li**, but I spell it **Lee** in English to help people pronounce it correctly — not as **Lye**.
-
-✨  **Hope you will enjoy my software one day !** :grin:
-
----
-
 ## Personal Projects
 *24 total, grouped by category*
 
@@ -76,12 +58,6 @@
 1. [Bank Transaction Prosessor in C](https://github.com/pppiyo/Bank_Transaction_Prosessor) (C)
 
 1. [Box Office Analyzer](https://github.com/pppiyo/box_office_analyzer) (Python)
-
-
-<!--
-⚡ Fun fact: The goofy name "pppiyo" comes from an anime character who in emergency will evolve into a phoenix to protect its friends. Like Pichachu, the language it speaks is simply the word "piyo".
-[image](https://github.com/pppiyo/pppiyo/assets/31379013/c3d67870-1103-40c3-8a67-acaf1486e3fe)-->
-
 
 
 <!--
