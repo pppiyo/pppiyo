@@ -1,3 +1,6 @@
+## Tech Blog
+Click [here](https://pppiyo.github.io/amylee_blog/) to visit.
+
 ## Personal Projects
 *24 total, grouped by category*
 
