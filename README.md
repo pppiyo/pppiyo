@@ -1,4 +1,4 @@
-## Tech Blog
+## Tech Blogs
 Click [here](https://pppiyo.github.io/amylee_blog/) to visit.
 
 ## Personal Projects
