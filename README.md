@@ -4,7 +4,9 @@ Click [here](https://pppiyo.github.io/amylee_blog/) to visit.
 ## Personal Projects
 *24 total, grouped by category*
 
-### AI Agent
+### AI
+1. [Local OCR-RAG](https://github.com/pppiyo/engineering_specs_rag/tree/master) (ChatGPT, Python)
+   
 1. [Agent Safety](https://github.com/xiaoxuansu/agentbeats-lambda-phase2-quietchaos) (Claude.AI, Python)
    
 1. [ManuChai](https://github.com/pppiyo/ManuChai) (Streamlit, IBM Granite)
